@@ -300,6 +300,19 @@ a:after {
 	font-size: 100px;
 	font-weight: bold;
 	text-shadow: 2px 2px 2px #000;
+  text-align: center;
+}
+
+#name {
+  color:#ffffff;
+  margin-top: -40px;
+  padding-bottom: 20px;
+  letter-spacing: 8px;
+  font-size: 100px;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px #000;
+  text-align: center;
+  padding-left: 55px;
 }
 
 #headerwrap p {
