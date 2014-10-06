@@ -303,6 +303,11 @@ a:after {
   text-align: center;
 }
 
+#headerwrap h2 {
+  font-size: 50px;
+  color: #ffffff;
+}
+
 #name {
   color:#ffffff;
   margin-top: -40px;
@@ -324,6 +329,7 @@ a:after {
 	letter-spacing: 3px;
 	margin-left: 15px;
 	text-shadow: 1px 1px 1px #000;
+  /* TODO: Move problem solver to the right */
 }
 
 #greywrap {
