@@ -308,6 +308,10 @@ a:after {
   color: #ffffff;
 }
 
+#headerwrap h3 {
+ 	margin-top: 40px;
+}
+
 #name {
   color:#ffffff;
   margin-top: -40px;
