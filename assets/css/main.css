@@ -278,7 +278,7 @@ a:after {
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 100%;
+	min-height: 50%;
 	width: 100%;
 
     -webkit-background-size: 50%;
