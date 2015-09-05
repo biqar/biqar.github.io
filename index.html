@@ -115,6 +115,7 @@ Thanks for stopping by!</p>
           function(json) {
             if (json.success == true) {
               var audiofile = json.data.url;
+              console.log(audiofile);
             } else {
               alert("Error");
             }
