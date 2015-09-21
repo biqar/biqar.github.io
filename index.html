@@ -10,7 +10,8 @@
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
-
+    <link href="assets/css/bootstrap.icon-large.min.css" rel="stylesheet">
+    
     <!-- Custom styles for this template -->
     <link href="assets/css/main.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/icomoon.css">
@@ -48,13 +49,11 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <!-- <li><a href="#headerwrap" class="smoothScroll">Home</a></li>
-			   <li><a href="#about" class="smoothScroll"> About</a></li>
-		      	<li><a href="#services" class="smoothScroll"> Services</a></li>
-			      <li><a href="#team" class="smoothScroll"> Team</a></li>
-			      <li><a href="#portfolio" class="smoothScroll"> Portfolio</a></li>
-			      <li><a href="#blog" class="smoothScroll"> Blog</a></li>
-			      <li><a href="#contact" class="smoothScroll"> Contact</a></li> -->
+            <li><a href="#headerwrap" class="smoothScroll">Home</a></li>
+			   <li><a href="#about" class="smoothScroll"> Bio</a></li>
+		      	   <li><a href="#contact" class="smoothScroll"> Contact</a></li>
+			   <li><a href="#portfolio" class="smoothScroll"> Portfolio</a></li>
+            </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
@@ -62,7 +61,7 @@
 
 
 		<!-- ==== HEADERWRAP ==== -->
-	    <<div id="headerwrap" id="home" name="home">
+	    <div id="headerwrap" id="home" name="home">
 			<header class="clearfix">
             			<h2>Hey. It's Alok. My site is under construction.</h2>
 	  		</header>
@@ -100,7 +99,38 @@ Thanks for stopping by!</p>
 				</div><!-- col-lg-6 -->
 			</div><!-- row -->
 		</div><!-- container -->
-
+		<!-- ==== SECTION DIVIDER6 ==== 
+		<section class="section-divider textdivider divider6">
+			<div class="container">
+				<h1>CRAFTED IN NEW YORK, USA.</h1>
+				<hr>
+				<p>Some Address 987,</p>
+				<p>+34 9884 4893</p>
+				<p><a class="icon icon-twitter" href="#"></a> | <a class="icon icon-facebook" href="#"></a></p>
+			</div>
+		</section>-->
+		
+		<div class="container" id="contact" name="contact">
+			<div class="row">
+			<br>
+				<h1 class="centered">THANKS FOR VISITING ME</h1>
+				<hr>
+				<br>
+				<br>
+				<div class="centered">
+					<h3>Contact Information</h3>
+					<p>
+                                                <span class="icon icon-envelop"></span> <a href="mailto:aloktripathynj@gmail.com">aloktripathynj@gmail.com</a><br/>
+						<span class="icon icon-github"></span> <a href="https://www.github.com/kullalok">kullalok</a><br/>
+                                                <!--<span class="icon icon-linkedin2"></span><a href="www.google.com">asdf<br/>
+                                                <span class="icon icon-twitter"></span> <a href="#"> @blacktie_co </a> <br/>
+						<span class="icon icon-facebook"></span> <a href="#"> BlackTie Agency </a> <br/>-->
+					</p>
+				</div><!-- col -->
+			</div><!-- row -->
+		
+		</div><!-- container -->
+  
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -112,16 +142,7 @@ Thanks for stopping by!</p>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script type="text/javascript" src="assets/js/smoothscroll.js"></script>
         <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-        <script type="text/javascript">
-          $.getJSON("http://speech.jtalkplugin.com/api/?callback=?", {speech: "Hello World", usecache: "false" },
-          function(json) {
-            if (json.success == true) {
-              var audiofile = json.data.url;
-              console.log(audiofile);
-            } else {
-              alert("Error");
-            }
-          });
-        </script>
+
     </body>
 </html>
+
