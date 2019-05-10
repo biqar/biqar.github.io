@@ -1,114 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Alok Tripathy</title>
+    <title>Authors on Academic</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Alok Tripathy</description>
+    <description>Recent content in Authors on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Sep 2018 14:43:34 -0400</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Alex Watkins</title>
-      <link>/authors/alex-watkins/</link>
-      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
-      
-      <guid>/authors/alex-watkins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alok Tripathy</title>
-      <link>/authors/alok-tripathy/</link>
-      <pubDate>Thu, 13 Dec 2018 10:38:16 -0400</pubDate>
-      
-      <guid>/authors/alok-tripathy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David A. Bader</title>
-      <link>/authors/david-a.-bader/</link>
-      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
-      
-      <guid>/authors/david-a.-bader/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Duen Horng Chau</title>
-      <link>/authors/duen-horng-chau/</link>
-      <pubDate>Thu, 13 Dec 2018 10:38:16 -0400</pubDate>
-      
-      <guid>/authors/duen-horng-chau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Euna Kim</title>
-      <link>/authors/euna-kim/</link>
-      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
-      
-      <guid>/authors/euna-kim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fred Hohman</title>
-      <link>/authors/fred-hohman/</link>
-      <pubDate>Thu, 13 Dec 2018 10:38:16 -0400</pubDate>
-      
-      <guid>/authors/fred-hohman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>James Fox</title>
-      <link>/authors/james-fox/</link>
-      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
-      
-      <guid>/authors/james-fox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kasimir Gabert</title>
-      <link>/authors/kasimir-gabert/</link>
-      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
-      
-      <guid>/authors/kasimir-gabert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kumar Aatish</title>
-      <link>/authors/kumar-aatish/</link>
-      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
-      
-      <guid>/authors/kumar-aatish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oded Green</title>
-      <link>/authors/oded-green/</link>
-      <pubDate>Thu, 13 Dec 2018 10:38:16 -0400</pubDate>
-      
-      <guid>/authors/oded-green/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaojing An</title>
-      <link>/authors/xiaojing-an/</link>
-      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
-      
-      <guid>/authors/xiaojing-an/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>admin</title>
