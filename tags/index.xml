@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Alok Tripathy</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Alok Tripathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Mar 2019 15:00:00 -0350</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accelerators</title>
+      <link>/tags/accelerators/</link>
+      <pubDate>Wed, 20 Mar 2019 15:00:00 -0350</pubDate>
+      
+      <guid>/tags/accelerators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Analytics</title>
+      <link>/tags/graph-analytics/</link>
+      <pubDate>Wed, 20 Mar 2019 15:00:00 -0350</pubDate>
+      
+      <guid>/tags/graph-analytics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
