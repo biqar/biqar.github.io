@@ -81,7 +81,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi, I'm Alok! I'm an incoming CS Ph.D. student at [UC Berkeley](https://www.berkeley.edu/) and Graduate Research Assistant at [Lawrence Berkeley National Lab](https://www.lbl.gov/) advised by [Aydın Buluç](https://people.eecs.berkeley.edu/~aydin/) and [Kathy Yelick](https://people.eecs.berkeley.edu/~yelick/).
+Hi, I'm Alok! I'm an incoming CS Ph.D. student at [UC Berkeley](https://www.berkeley.edu/).
 
 Broadly, I am interested in designing algorithms and programming models that leverage high-performance systems, particularly heterogeneous systems. My work is supported by the [NSF Fellowship](https://www.nsfgrfp.org/).
 
