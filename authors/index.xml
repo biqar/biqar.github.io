@@ -6,19 +6,10 @@
     <description>Recent content in Authors on Alok Tripathy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Sep 2018 14:43:34 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 13 Dec 2018 10:38:16 -0400</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Alex Watkins</title>
-      <link>/authors/alex-watkins/</link>
-      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
-      
-      <guid>/authors/alex-watkins/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Alok Tripathy</title>
@@ -26,15 +17,6 @@
       <pubDate>Thu, 13 Dec 2018 10:38:16 -0400</pubDate>
       
       <guid>/authors/alok-tripathy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David A. Bader</title>
-      <link>/authors/david-a.-bader/</link>
-      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
-      
-      <guid>/authors/david-a.-bader/</guid>
       <description></description>
     </item>
     
@@ -48,20 +30,47 @@
     </item>
     
     <item>
-      <title>Euna Kim</title>
-      <link>/authors/euna-kim/</link>
-      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
-      
-      <guid>/authors/euna-kim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fred Hohman</title>
       <link>/authors/fred-hohman/</link>
       <pubDate>Thu, 13 Dec 2018 10:38:16 -0400</pubDate>
       
       <guid>/authors/fred-hohman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oded Green</title>
+      <link>/authors/oded-green/</link>
+      <pubDate>Thu, 13 Dec 2018 10:38:16 -0400</pubDate>
+      
+      <guid>/authors/oded-green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Watkins</title>
+      <link>/authors/alex-watkins/</link>
+      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
+      
+      <guid>/authors/alex-watkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David A. Bader</title>
+      <link>/authors/david-a.-bader/</link>
+      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
+      
+      <guid>/authors/david-a.-bader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Euna Kim</title>
+      <link>/authors/euna-kim/</link>
+      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
+      
+      <guid>/authors/euna-kim/</guid>
       <description></description>
     </item>
     
@@ -93,29 +102,11 @@
     </item>
     
     <item>
-      <title>Oded Green</title>
-      <link>/authors/oded-green/</link>
-      <pubDate>Thu, 13 Dec 2018 10:38:16 -0400</pubDate>
-      
-      <guid>/authors/oded-green/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Xiaojing An</title>
       <link>/authors/xiaojing-an/</link>
       <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
       
       <guid>/authors/xiaojing-an/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/admin/</guid>
       <description></description>
     </item>
     
