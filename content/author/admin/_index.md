@@ -23,7 +23,8 @@ email = "alokt@berkeley.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "High-Performance Computing",
+  "Parallel/Distributed Computing",
+  "Graph-Representation Learning",
   "Graph Analytics",
   "Accelerators"
 ]
@@ -81,8 +82,10 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi, I'm Alok! I'm an incoming CS Ph.D. student at [UC Berkeley](https://www.berkeley.edu/).
+Hi, I'm Alok! I'm a 1st-year CS Ph.D. student at UC Berkeley, advised by [Aydın Buluç](https://people.eecs.berkeley.edu/~aydin/index.html) and [Kathy Yelick](http://people.eecs.berkeley.edu/~yelick/). I am affiliated with the [PASSION Lab](https://passion.lbl.gov/), the [BeBOp Group](https://bebop.cs.berkeley.edu/), and [Lawrence Berkeley National Lab](https://www.lbl.gov/).
 
-Broadly, I am interested in designing algorithms and programming models that leverage high-performance systems, particularly heterogeneous systems. My work is supported by the [NSF Fellowship](https://www.nsfgrfp.org/).
+Broadly, I am interested in designing algorithms that leverage high-performance systems, particularly heterogeneous systems. I am currently interested in scaling graph-representation learning in distributed environments. In the past, I worked on accelerating graph analytics on GPUs. My work is supported by the [NSF Fellowship](https://www.nsfgrfp.org/).
 
-Before coming to Berkeley, I worked with [Oded Green](https://scholar.google.com/citations?user=C_7l2roAAAAJ&hl=en) in [David Bader](https://www.cc.gatech.edu/~bader/)'s HPC lab at [Georgia Tech](https://www.gatech.edu/) (Go Jackets!).
+I am also passionate about science communication. To that end, I write for the [Berkeley Science Review](https://berkeleysciencereview.com/article/tracking-your-e-missions/).
+
+Before coming to Berkeley, I worked with [Oded Green](https://scholar.google.com/citations?user=C_7l2roAAAAJ&hl=en) in [David Bader](https://davidbader.net/)'s HPC lab at Georgia Tech (Go Jackets!).

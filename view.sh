@@ -1,3 +1,1 @@
-#!/usr/bin/env bash
-
-hugo --i18n-warnings server
+/usr/local/bin/hugo-0.58.3/hugo --i18n-warnings server
