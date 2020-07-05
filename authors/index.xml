@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Alok Tripathy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Dec 2018 10:38:16 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 14:43:34 -0400</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,45 @@
     <item>
       <title>Alok Tripathy</title>
       <link>/authors/alok-tripathy/</link>
-      <pubDate>Thu, 13 Dec 2018 10:38:16 -0400</pubDate>
+      <pubDate>Sat, 09 May 2020 14:43:34 -0400</pubDate>
       
       <guid>/authors/alok-tripathy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aydın Buluç</title>
+      <link>/authors/ayd%C4%B1n-bulu%C3%A7/</link>
+      <pubDate>Sat, 09 May 2020 14:43:34 -0400</pubDate>
+      
+      <guid>/authors/ayd%C4%B1n-bulu%C3%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katherine Yelick</title>
+      <link>/authors/katherine-yelick/</link>
+      <pubDate>Sat, 09 May 2020 14:43:34 -0400</pubDate>
+      
+      <guid>/authors/katherine-yelick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Fox</title>
+      <link>/authors/james-fox/</link>
+      <pubDate>Wed, 25 Sep 2019 14:43:34 -0400</pubDate>
+      
+      <guid>/authors/james-fox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oded Green</title>
+      <link>/authors/oded-green/</link>
+      <pubDate>Wed, 25 Sep 2019 14:43:34 -0400</pubDate>
+      
+      <guid>/authors/oded-green/</guid>
       <description></description>
     </item>
     
@@ -35,15 +71,6 @@
       <pubDate>Thu, 13 Dec 2018 10:38:16 -0400</pubDate>
       
       <guid>/authors/fred-hohman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oded Green</title>
-      <link>/authors/oded-green/</link>
-      <pubDate>Thu, 13 Dec 2018 10:38:16 -0400</pubDate>
-      
-      <guid>/authors/oded-green/</guid>
       <description></description>
     </item>
     
@@ -71,15 +98,6 @@
       <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
       
       <guid>/authors/euna-kim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>James Fox</title>
-      <link>/authors/james-fox/</link>
-      <pubDate>Tue, 25 Sep 2018 14:43:34 -0400</pubDate>
-      
-      <guid>/authors/james-fox/</guid>
       <description></description>
     </item>
     
