@@ -15,7 +15,7 @@ abstract = "Graph Neural Networks (GNNs) are powerful and flexible neural networ
 
 url_pdf = "https://arxiv.org/pdf/2005.03300.pdf"
 
-publication_short = "arXiv:2005.03300"
+publication_short = "ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (to appear), arXiv:2005.03300"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
