@@ -17,6 +17,10 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  title = "Accurately and Efficiently Estimating Dynamic Point-to-Point Shortest Path accepted to BigGraphs at BigData'20"
+  date_start = "2020-11-05"
+  description = ""
 
 [[item]]
   title = "Reducing Communication in Graph Neural Network Training accepted to SC'20"

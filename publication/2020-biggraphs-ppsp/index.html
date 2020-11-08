@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="CS Ph.D. Student">
+  <meta name="description" content="Point-to-point shortest path (PPSP), or s-t connectivity, is a variant of the shortest path problem found in graph theory. In this problem, we are given a graph and pairs of vertices over time, and the output is the shortest path between each pair of vertices. In this paper, we present two algorithms. Our first algorithm approximately solves the PPSP problem on any arbitrary graph. For each pair of vertices queried, it accurately and efficiently estimates the shortest path between the two vertices. Our second algorithm extends the first to work on dynamic graphs. That is, our second algorithm can efficiently account for changes in the graph, such as friend requests on the Facebook network or road closures on road networks. At a high level, both algorithms partition the graph into highly connected communities. To respond to a query q(u, v), they each find the fewest number of partitions between u and v, and the shortest path through each partition. We show that our static graph algorithm can approximate the distance between two vertices with about 20%-35% percent error and anywhere from 80X-70000X faster than a BFS in practice with the right choice of partitions. Additionally, we show that our dynamic graph algorithm can account for updates to the graph anywhere from 20X-20000X faster than rerunning the static graph algorithm for each change to the graph.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/talk/">
+  <link rel="alternate" hreflang="en-us" href="/publication/2020-biggraphs-ppsp/">
 
   
 
@@ -98,38 +98,41 @@
   
 
   
-  <link rel="alternate" href="/talk/index.xml" type="application/rss+xml" title="Alok Tripathy">
-  <link rel="feed" href="/talk/index.xml" type="application/rss+xml" title="Alok Tripathy">
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Alok Tripathy">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Alok Tripathy">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/talk/">
+  <link rel="canonical" href="/publication/2020-biggraphs-ppsp/">
 
   
   
   
   
     
+    
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Alok Tripathy">
-  <meta property="og:url" content="/talk/">
-  <meta property="og:title" content="Recent &amp; Upcoming Talks | Alok Tripathy">
-  <meta property="og:description" content="CS Ph.D. Student"><meta property="og:image" content="/img/gtc.png">
+  <meta property="og:url" content="/publication/2020-biggraphs-ppsp/">
+  <meta property="og:title" content="Accurately and Efficiently Estimating Dynamic Point-to-Point Shortest Path | Alok Tripathy">
+  <meta property="og:description" content="Point-to-point shortest path (PPSP), or s-t connectivity, is a variant of the shortest path problem found in graph theory. In this problem, we are given a graph and pairs of vertices over time, and the output is the shortest path between each pair of vertices. In this paper, we present two algorithms. Our first algorithm approximately solves the PPSP problem on any arbitrary graph. For each pair of vertices queried, it accurately and efficiently estimates the shortest path between the two vertices. Our second algorithm extends the first to work on dynamic graphs. That is, our second algorithm can efficiently account for changes in the graph, such as friend requests on the Facebook network or road closures on road networks. At a high level, both algorithms partition the graph into highly connected communities. To respond to a query q(u, v), they each find the fewest number of partitions between u and v, and the shortest path through each partition. We show that our static graph algorithm can approximate the distance between two vertices with about 20%-35% percent error and anywhere from 80X-70000X faster than a BFS in practice with the right choice of partitions. Additionally, we show that our dynamic graph algorithm can account for updates to the graph anywhere from 20X-20000X faster than rerunning the static graph algorithm for each change to the graph."><meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2020-12-10T15:00:00-03:50">
+  <meta property="article:published_time" content="2020-11-05T10:38:16-04:00">
+  
+  <meta property="article:modified_time" content="2020-11-05T10:38:16-04:00">
   
 
   
 
   
 
-  <title>Recent &amp; Upcoming Talks | Alok Tripathy</title>
+  <title>Accurately and Efficiently Estimating Dynamic Point-to-Point Shortest Path | Alok Tripathy</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -284,351 +287,248 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-
-
-
-
-
-
-
-
-
-
-<div class="article-header">
-  
-  
-  <img src="/img/gtc.png" class="article-banner" itemprop="image" alt="">
   
 
-  <span class="article-header-caption">asdofijaosdf</span>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Accurately and Efficiently Estimating Dynamic Point-to-Point Shortest Path</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2020-11-05 10:38:16 -0400 -0400" itemprop="datePublished">
+<meta content="2020-11-05 10:38:16 -0400 -0400" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Alok Tripathy</a></span></span>, 
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        
+
+      
+      
+      <a href="">Oded Green</a></span></span>
+  
+
+
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>November 2020</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Accurately%20and%20Efficiently%20Estimating%20Dynamic%20Point-to-Point%20Shortest%20Path&amp;url=%2fpublication%2f2020-biggraphs-ppsp%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fpublication%2f2020-biggraphs-ppsp%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2f2020-biggraphs-ppsp%2f&amp;title=Accurately%20and%20Efficiently%20Estimating%20Dynamic%20Point-to-Point%20Shortest%20Path"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fpublication%2f2020-biggraphs-ppsp%2f&amp;title=Accurately%20and%20Efficiently%20Estimating%20Dynamic%20Point-to-Point%20Shortest%20Path"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Accurately%20and%20Efficiently%20Estimating%20Dynamic%20Point-to-Point%20Shortest%20Path&amp;body=%2fpublication%2f2020-biggraphs-ppsp%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/2020-biggraphs-ppsp/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
 </div>
 
 
 
+  <div class="article-container">
 
-  
-
-  
-  
-  
     
-  
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Recent &amp; Upcoming Talks</h1>
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Point-to-point shortest path (PPSP), or s-t connectivity, is a variant of the shortest path problem found in graph theory. In this problem, we are given a graph and pairs of vertices over time, and the output is the shortest path between each pair of vertices. In this paper, we present two algorithms. Our first algorithm approximately solves the PPSP problem on any arbitrary graph. For each pair of vertices queried, it accurately and efficiently estimates the shortest path between the two vertices. Our second algorithm extends the first to work on dynamic graphs. That is, our second algorithm can efficiently account for changes in the graph, such as friend requests on the Facebook network or road closures on road networks. At a high level, both algorithms partition the graph into highly connected communities. To respond to a query q(u, v), they each find the fewest number of partitions between u and v, and the shortest path through each partition. We show that our static graph algorithm can approximate the distance between two vertices with about 20%-35% percent error and anywhere from 80X-70000X faster than a BFS in practice with the right choice of partitions. Additionally, we show that our dynamic graph algorithm can account for updates to the graph anywhere from 20X-20000X faster than rerunning the static graph algorithm for each change to the graph.</p>
+    
 
-  
-
-  
-</div>
-
-
-
-<div class="universal-wrapper">
-  <div class="row">
-    <div class="col-lg-12">
-
-      
-
-      
-      <div class="row" id="talk_list">
-        <div class="col-lg-2">
-          <h3>2020</h3>
-        </div>
-        <div class="col-lg-10">
-
-          
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
             
-              
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/2020-biggraphs/" itemprop="url">Accurately and Efficiently Estimating Dynamic Point-to-Point Shortest Path</a>
-    </h3>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span itemprop="startDate">
-          
-          Dec 10, 2020
-          
-            3:00 PM
-            
-          
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span itemprop="location">IEEE BigGraphs Workshop at International Conference on Big Data (BigData) 2020</span>
-        
-      </div>
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
 
             
-          
             
-              
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/2020-sc/" itemprop="url">Reducing Communication in Graph Neural Network Training</a>
-    </h3>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span itemprop="startDate">
-          
-          Nov 18, 2020
-          
-            3:00 PM
+            <a href="/publication/#1">
+              Conference paper
+            </a>
             
-          
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span itemprop="location">ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis (SC) 2020</span>
-        
-      </div>
-      
-
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2005.03300.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/2020/sc20_gnn_11182020.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=a_iNOoRW-7Q" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-            
-          
-
+          </div>
         </div>
       </div>
-      
-      <div class="row" id="talk_list">
-        <div class="col-lg-2">
-          <h3>2019</h3>
-        </div>
-        <div class="col-lg-10">
-
-          
-            
-              
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/2019-gtc/" itemprop="url">Scalable K-Core Decomposition for Static Graphs Using a Dynamic Graph Data Structure</a>
-    </h3>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span itemprop="startDate">
-          
-          Mar 20, 2019
-          
-            3:00 PM
-            
-          
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span itemprop="location">NVIDIA GPU Technology Conference (GTC)</span>
-        
-      </div>
-      
-
-      
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
 
     
-    <div class="btn-links">
-      
 
+    <div class="space-below"></div>
 
+    <div class="article-style"></div>
 
-
-
-
-
-
-  
     
+
+
+<div class="article-tags">
   
+  <a class="badge badge-light" href="">Graph Analytics</a>
+  
+</div>
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/profile/Oded_Green/publication/328874544_Scalable_K-Core_Decomposition_for_Static_Graphs_Using_a_Dynamic_Graph_Data_Structure/links/5be85c97299bf1124fcb1ade/Scalable-K-Core-Decomposition-for-Static-Graphs-Using-a-Dynamic-Graph-Data-Structure.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
+    
 
 
 
@@ -639,45 +539,20 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/2019/gtc.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
   
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://developer.nvidia.com/gtc/2019/video/S9440" target="_blank" rel="noopener">
-  Video
-</a>
 
 
 
 
 
-    </div>
-    
 
-  </div>
-  <div class="ml-3">
-    
-    
+
+
   </div>
 </div>
 
-            
-          
 
-        </div>
-      </div>
-      
 
-    </div>
-  </div>
-
-</div>
 <div class="container">
   <footer class="site-footer">
   
