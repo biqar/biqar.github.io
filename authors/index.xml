@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Alok Tripathy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2020 14:43:34 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2020 10:38:16 -0400</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Alok Tripathy</title>
       <link>/authors/alok-tripathy/</link>
-      <pubDate>Sat, 09 May 2020 14:43:34 -0400</pubDate>
+      <pubDate>Thu, 05 Nov 2020 10:38:16 -0400</pubDate>
       
       <guid>/authors/alok-tripathy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oded Green</title>
+      <link>/authors/oded-green/</link>
+      <pubDate>Thu, 05 Nov 2020 10:38:16 -0400</pubDate>
+      
+      <guid>/authors/oded-green/</guid>
       <description></description>
     </item>
     
@@ -44,15 +53,6 @@
       <pubDate>Wed, 25 Sep 2019 14:43:34 -0400</pubDate>
       
       <guid>/authors/james-fox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oded Green</title>
-      <link>/authors/oded-green/</link>
-      <pubDate>Wed, 25 Sep 2019 14:43:34 -0400</pubDate>
-      
-      <guid>/authors/oded-green/</guid>
       <description></description>
     </item>
     
