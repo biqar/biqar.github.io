@@ -23,10 +23,10 @@ email = "alokt@berkeley.edu"
 
 # List (academic) interests or hobbies
 interests = [
+  "Scientific Computing",
   "Parallel/Distributed Computing",
   "Graph-Representation Learning",
   "Graph Analytics",
-  "Accelerators"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -84,7 +84,7 @@ user_groups = ["Researchers", "Visitors"]
 
 Hi, I'm Alok! I'm a 2nd-year CS Ph.D. student at UC Berkeley, advised by [Aydın Buluç](https://people.eecs.berkeley.edu/~aydin/index.html) and [Kathy Yelick](http://people.eecs.berkeley.edu/~yelick/). I am affiliated with the [PASSION Lab](https://passion.lbl.gov/), the [BeBOp Group](https://bebop.cs.berkeley.edu/), and [Lawrence Berkeley National Lab](https://www.lbl.gov/).
 
-Broadly, I am interested in designing algorithms that leverage high-performance systems, particularly heterogeneous systems. I am currently interested in scaling graph-representation learning in distributed environments. In the past, I worked on accelerating graph analytics on GPUs. My work is supported by the [NSF Fellowship](https://www.nsfgrfp.org/).
+Very broadly, I am interested in discovering what scientific questions we can answer if computation were not an issue. To that end, I work in accelerating scientific computation on large-scale supercomputers. I am currently interested in scaling graph-representation learning, with applications to bioinformatics. In the past, I worked on accelerating graph analytics on GPUs. My work is supported by the [NSF Fellowship](https://www.nsfgrfp.org/).
 
 I am also passionate about science communication. To that end, I write for the [Berkeley Science Review](https://berkeleysciencereview.com/article/tracking-your-e-missions/).
 

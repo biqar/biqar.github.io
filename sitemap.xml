@@ -2,54 +2,6 @@
   
     <url>
     
-      <loc>/talk/2020-biggraphs/</loc>
-      <lastmod>2020-12-10T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2020-12-10T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/graph-analytics/</loc>
-      <lastmod>2020-12-10T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2020-12-10T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2020-12-10T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/graph-neural-networks/</loc>
-      <lastmod>2020-11-18T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/graph-representation-learning/</loc>
-      <lastmod>2020-11-18T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/talk/2020-sc/</loc>
-      <lastmod>2020-11-18T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/publication_types/1/</loc>
       <lastmod>2020-11-05T10:38:16-04:00</lastmod>
     </url>
@@ -68,7 +20,19 @@
   
     <url>
     
+      <loc>/</loc>
+      <lastmod>2020-11-05T10:38:16-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/authors/</loc>
+      <lastmod>2020-11-05T10:38:16-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/graph-analytics/</loc>
       <lastmod>2020-11-05T10:38:16-04:00</lastmod>
     </url>
   
@@ -92,6 +56,12 @@
   
     <url>
     
+      <loc>/tags/</loc>
+      <lastmod>2020-11-05T10:38:16-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/publication_types/3/</loc>
       <lastmod>2020-05-09T14:43:34-04:00</lastmod>
     </url>
@@ -99,6 +69,12 @@
     <url>
     
       <loc>/authors/ayd%C4%B1n-bulu%C3%A7/</loc>
+      <lastmod>2020-05-09T14:43:34-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/graph-representation-learning/</loc>
       <lastmod>2020-05-09T14:43:34-04:00</lastmod>
     </url>
   
@@ -129,6 +105,12 @@
     <url>
     
       <loc>/tags/accelerators/</loc>
+      <lastmod>2019-03-20T15:00:00-03:50</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/talk/</loc>
       <lastmod>2019-03-20T15:00:00-03:50</lastmod>
     </url>
   

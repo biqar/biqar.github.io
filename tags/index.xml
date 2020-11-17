@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Alok Tripathy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Dec 2020 15:00:00 -0350</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2020 10:38:16 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,25 +14,16 @@
     <item>
       <title>Graph Analytics</title>
       <link>/tags/graph-analytics/</link>
-      <pubDate>Thu, 10 Dec 2020 15:00:00 -0350</pubDate>
+      <pubDate>Thu, 05 Nov 2020 10:38:16 -0400</pubDate>
       
       <guid>/tags/graph-analytics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Graph Neural Networks</title>
-      <link>/tags/graph-neural-networks/</link>
-      <pubDate>Wed, 18 Nov 2020 15:00:00 -0350</pubDate>
-      
-      <guid>/tags/graph-neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Graph-Representation Learning</title>
       <link>/tags/graph-representation-learning/</link>
-      <pubDate>Wed, 18 Nov 2020 15:00:00 -0350</pubDate>
+      <pubDate>Sat, 09 May 2020 14:43:34 -0400</pubDate>
       
       <guid>/tags/graph-representation-learning/</guid>
       <description></description>
