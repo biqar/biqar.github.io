@@ -18,13 +18,14 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
-  title = "Accurately and Efficiently Estimating Dynamic Point-to-Point Shortest Path accepted to BigGraphs at BigData'20"
-  date_start = "2020-11-05"
+  title = "Presenting \"Reducing Communication in Graph Neural Network Training\" at GTC'21"
+  date_start = "2021-04-14"
   description = ""
 
 [[item]]
-  title = "Reducing Communication in Graph Neural Network Training accepted to SC'20"
-  date_start = "2020-08-29"
+  title = "Presenting \"Multi-GPU HashGraph: A Scalable Hash Table for NUMA Systems\" at GTC'21"
+  date_start = "2021-04-15"
   description = ""
+
 
 +++

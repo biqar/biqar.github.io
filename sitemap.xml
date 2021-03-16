@@ -2,13 +2,61 @@
   
     <url>
     
-      <loc>/talk/2020-biggraphs/</loc>
-      <lastmod>2020-12-10T15:00:00-03:50</lastmod>
+      <loc>/tags/accelerators/</loc>
+      <lastmod>2021-04-15T10:00:00-03:50</lastmod>
     </url>
   
     <url>
     
       <loc>/</loc>
+      <lastmod>2021-04-15T10:00:00-03:50</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/hash-tables/</loc>
+      <lastmod>2021-04-15T10:00:00-03:50</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/talk/2021-gtc-mhg/</loc>
+      <lastmod>2021-04-15T10:00:00-03:50</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2021-04-15T10:00:00-03:50</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2021-04-15T10:00:00-03:50</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/graph-neural-networks/</loc>
+      <lastmod>2021-04-14T10:00:00-03:50</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/graph-representation-learning/</loc>
+      <lastmod>2021-04-14T10:00:00-03:50</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/talk/2021-gtc-gnn/</loc>
+      <lastmod>2021-04-14T10:00:00-03:50</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/talk/2020-biggraphs/</loc>
       <lastmod>2020-12-10T15:00:00-03:50</lastmod>
     </url>
   
@@ -16,30 +64,6 @@
     
       <loc>/tags/graph-analytics/</loc>
       <lastmod>2020-12-10T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2020-12-10T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2020-12-10T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/graph-neural-networks/</loc>
-      <lastmod>2020-11-18T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/graph-representation-learning/</loc>
-      <lastmod>2020-11-18T15:00:00-03:50</lastmod>
     </url>
   
     <url>
@@ -124,18 +148,6 @@
     
       <loc>/authors/james-fox/</loc>
       <lastmod>2019-09-25T14:43:34-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/tags/accelerators/</loc>
-      <lastmod>2019-03-20T15:00:00-03:50</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/talk/2019-gtc/</loc>
-      <lastmod>2019-03-20T15:00:00-03:50</lastmod>
     </url>
   
     <url>

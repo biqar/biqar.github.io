@@ -12,7 +12,7 @@ location = "IEEE BigGraphs Workshop at International Conference on Big Data (Big
 
 # url_pdf = "https://arxiv.org/pdf/2005.03300.pdf"
 # url_video = "https://www.youtube.com/watch?v=a_iNOoRW-7Q"
-# url_slides = "pdf/2020/sc20_gnn_11182020.pdf"
+url_slides = "pdf/2020/biggraphs20_ppsp_12102020.pdf"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # [image]
