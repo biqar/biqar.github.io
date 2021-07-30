@@ -86,6 +86,6 @@ Hi, I'm Alok! I'm a 2nd-year CS Ph.D. student at UC Berkeley, advised by [Aydın
 
 Very broadly, I want to discover what scientific questions we can answer if computational performance were not an issue. To that end, I work on accelerating scientific computation on large-scale supercomputers. I am currently interested in scaling graph-representation learning, with applications to bioinformatics. In the past, I worked on accelerating graph analytics on GPUs. My work is supported by the [NSF Fellowship](https://www.nsfgrfp.org/).
 
-I am also passionate about science communication and write regularly for the [Berkeley Science Review](https://berkeleysciencereview.com).
+I am also passionate about science communication and write regularly for the [Berkeley Science Review](https://berkeleysciencereview.com/author/alok-tripathy).
 
 Before coming to Berkeley, I worked with [Oded Green](https://scholar.google.com/citations?user=C_7l2roAAAAJ&hl=en) in [David Bader](https://davidbader.net/)'s HPC lab at Georgia Tech (Go Jackets!).
