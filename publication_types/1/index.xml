@@ -6,10 +6,19 @@
     <description>Recent content in 1 on Alok Tripathy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2020 10:38:16 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jun 2021 14:43:34 -0400</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distributed-Memory Parallel Algorithms for Sparse Times Tall-Skinny-Dense Matrix Multiplication</title>
+      <link>/publication/2021-ics-dspmm/</link>
+      <pubDate>Wed, 09 Jun 2021 14:43:34 -0400</pubDate>
+      
+      <guid>/publication/2021-ics-dspmm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accurately and Efficiently Estimating Dynamic Point-to-Point Shortest Path</title>
@@ -17,6 +26,15 @@
       <pubDate>Thu, 05 Nov 2020 10:38:16 -0400</pubDate>
       
       <guid>/publication/2020-biggraphs-ppsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing Communication in Graph Neural Network Training</title>
+      <link>/publication/2020-sc-gnn/</link>
+      <pubDate>Sat, 09 May 2020 14:43:34 -0400</pubDate>
+      
+      <guid>/publication/2020-sc-gnn/</guid>
       <description></description>
     </item>
     
