@@ -5,7 +5,7 @@ description: I am a fourth year CS PhD student at UNC Charlotte Data Intelligenc
 ---
 
 # Abdullah Al Raqibul Islam
-<img src="/static/raqib.jpg" alt="Raqib" style="width: 180px; height: 192px; float: right; margin: 10px"/>
+<img src="/static/raqib.jpg" alt="Raqib" style="width: 180px; height: 212px; float: right; margin: 10px"/>
 <!-- ![Raqib](/static/raqib.jpg) -->
 
 Hi, I am a fourth year CS PhD student at UNC Charlotte, where I am advised by [Prof. Dong Dai](https://daidong.github.io).
@@ -13,13 +13,13 @@ My research aims to build a high-performance graph processing engine to support 
 
 Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com) where I led a couple of ML and data management related engineering projects. I obtained my bachelor’s degree from [University of Dhaka](https://www.cse.du.ac.bd).
 
-[[CV](/cv.pdf)] | [[Google Scholar](https://scholar.google.com/citations?hl=en&user=H8zsAR8AAAAJ&view_op=list_works&sortby=pubdate)] | [[Twitter](https://twitter.com/AbdullahRaqibul)] | [GitHub](https://github.com/biqar)
+[[CV](/cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=H8zsAR8AAAAJ&view_op=list_works&sortby=pubdate)] [[Twitter](https://twitter.com/AbdullahRaqibul)] [[GitHub](https://github.com/biqar)]
 
 ---
 
 ## Publications
 
-- [Optimizing Performance and Storage of Memory-Mapped Persistent Data Structures](#).<br>
+- [Optimizing Performance and Storage of Memory-Mapped Persistent Data Structures](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926392).<br>
 Karim Youssef, **Abdullah Al Raqibul Islam**, Keita Iwabuchi, Wu-chun Feng and Roger Pearce. <br>
 *HPEC 2022*. *<strong><i style="color:#e74d3c">Outstanding Student Paper Award</i></strong>*.
 
