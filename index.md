@@ -19,7 +19,7 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Publications
 
-- [Optimizing Performance and Storage of Memory-Mapped Persistent Data Structures](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926392).<br>
+- [Optimizing Performance and Storage of Memory-Mapped Persistent Data Structures](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926392). <br>
 Karim Youssef, **Abdullah Al Raqibul Islam**, Keita Iwabuchi, Wu-chun Feng and Roger Pearce. <br>
 *HPEC 2022*. *<strong><i style="color:#e74d3c">Outstanding Student Paper Award</i></strong>*.
 
@@ -43,11 +43,17 @@ Karim Youssef, **Abdullah Al Raqibul Islam**, Keita Iwabuchi, Wu-chun Feng and R
 
 ## Professional Service
 
-- ICPP 2022, Sub Reviewer
-- IEEE BigData 2022, Sub Reviewer
-- (OSDI + ATC) 2022, Artifact Evaluation Committee
-- IEEE ISPA 2021, Sub Reviewer
-- SC 2021, Student Volunteer
+- Student volunteer of ISSRE 2022
+- External reviewer of ICPP 2022
+- External reviewer of CCGrid 2022
+- External reviewer of IPDPS 2022
+- Sub-reviewer of IEEE BigData 2022
+- Artifact evaluation committee member of OSDI 2022
+- Artifact evaluation committee member of ATC 2022
+- Sub-reviewer of IEEE ISPA 2021
+- Student volunteer of SC 2021
+- External reviewer of ICPP 2020
+- External reviewer of IPDPS 2020
 
 ---
 
