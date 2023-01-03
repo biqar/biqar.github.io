@@ -66,6 +66,12 @@ Karim Youssef, **Abdullah Al Raqibul Islam**, Keita Iwabuchi, Wu-chun Feng and R
 
 ___
 
+## Honors and Awards
+- [SciAuth Student Fellowship](https://sciauth.org/fellows/), Fall 2022 
+- [Outstanding Student Paper Award](https://ieee-hpec.org/index.php/ieee-hpec-2022-prelim-agenda/), 27th Annual IEEE High Performance Extreme Computing (HPEC 2022)
+
+___
+
 ## Contact
 
 aislam6@uncc.edu
