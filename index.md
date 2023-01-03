@@ -60,7 +60,8 @@ Karim Youssef, **Abdullah Al Raqibul Islam**, Keita Iwabuchi, Wu-chun Feng and R
 
 ## Experience
 
-- [CS Research Mentorship Program (CSRMP)](https://research.google/outreach/csrmp/) - Mentee, Fall 2022
+- [Research Assistant](https://daidong.github.io) @ Data Intelligence Research (DIR) Lab, UNC Charlotte, Aug. 2019 - Present
+- [CS Research Mentorship Program (CSRMP)](https://research.google/outreach/csrmp/recipients/?category=2022) - Mentee, Fall 2022
 - Research Intern @ Lawrence Livermore National Laboratory, Summer 2022
 - Principal Software Engineer @ TigerIT Bangladesh Ltd., Oct 2014 - Aug 2019
 
