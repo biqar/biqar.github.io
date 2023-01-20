@@ -8,8 +8,8 @@ description: I am a fourth year CS PhD student at UNC Charlotte Data Intelligenc
 <img src="/static/raqib.jpg" alt="Raqib" style="width: 180px; height: 212px; float: right; margin: 10px"/>
 <!-- ![Raqib](/static/raqib.jpg) -->
 
-Hi, I am a fourth year CS PhD student at UNC Charlotte, where I am advised by [Prof. Dong Dai](https://daidong.github.io).
-My research aims to build a high-performance graph processing engine to support trillion-edge graph processing in a single machine with heterogeneous memory/storage architecture. In this regard, I exploit emerging storage technologies (e.g., Persistent Memory). I am particularly interested in developing intelligent and adaptive data structures to efficiently store dynamic graphs without sacrificing the graph analysis’s efficiency.
+Hi, I am a fourth-year CS Ph.D. student at UNC Charlotte, where I am fortunate to be advised by [Prof. Dong Dai](https://daidong.github.io) on storage systems.
+My research aims to build a high-performance graph processing engine to support trillion-edge graph processing in a single machine with heterogeneous memory/storage architecture. I exploit emerging storage technologies (e.g., Persistent Memory) in this regard. I am particularly interested in developing intelligent and adaptive data structures to efficiently store dynamic graphs without sacrificing the graph analysis’s efficiency.
 
 Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com) where I led a couple of ML and data management related engineering projects. I obtained my bachelor’s degree from [University of Dhaka](https://www.cse.du.ac.bd).
 
