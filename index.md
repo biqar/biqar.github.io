@@ -13,7 +13,7 @@ My research aims to build a high-performance graph processing engine to support 
 
 Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com) where I led a couple of ML and data management related engineering projects. I obtained my bachelor’s degree from [University of Dhaka](https://www.cse.du.ac.bd).
 
-[[CV](/cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=H8zsAR8AAAAJ&view_op=list_works&sortby=pubdate)] [[Twitter](https://twitter.com/AbdullahRaqibul)] [[GitHub](https://github.com/biqar)]
+[[CV](/cv.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=H8zsAR8AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}] [[GitHub](https://github.com/biqar){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/aa-raqibul-islam/){:target="_blank"}] [[Twitter](https://twitter.com/AbdullahRaqibul){:target="_blank"}]
 
 ---
 
