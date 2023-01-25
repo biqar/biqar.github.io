@@ -19,23 +19,23 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Publications
 
-- [Optimizing Performance and Storage of Memory-Mapped Persistent Data Structures](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926392). <br>
+- [Optimizing Performance and Storage of Memory-Mapped Persistent Data Structures](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926392){:target="_blank"}. <br>
 Karim Youssef, **Abdullah Al Raqibul Islam**, Keita Iwabuchi, Wu-chun Feng and Roger Pearce. <br>
 *HPEC 2022*. *<strong><i style="color:#e74d3c">Outstanding Student Paper Award</i></strong>*.
 
-- [A Performance Study of Optane Persistent Memory: From Storage Data Structures' Perspective](https://rdcu.be/cWgD4). [[Code](https://github.com/DIR-LAB/ycsb-storedsbench)] <br>
+- [A Performance Study of Optane Persistent Memory: From Storage Data Structures' Perspective](https://rdcu.be/cWgD4){:target="_blank"}. [[Code](https://github.com/DIR-LAB/ycsb-storedsbench){:target="_blank"}] <br>
 **Abdullah Al Raqibul Islam**, Christopher York and Dong Dai. <br>
 *THPC 2022. Journal Paper.*
 
-- [VCSR: Mutable CSR Graph Format Using Vertex-Centric Packed Memory Array](https://webpages.charlotte.edu/ddai/papers/dong-ccgrid-22.pdf). [[Code](https://github.com/DIR-LAB/VCSR)] [[Slides](https://webpages.charlotte.edu/ddai/papers/ccgrid22_vcsr_raqib.pdf)]<br>
+- [VCSR: Mutable CSR Graph Format Using Vertex-Centric Packed Memory Array](https://webpages.charlotte.edu/ddai/papers/dong-ccgrid-22.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/VCSR){:target="_blank"}] [[Slides](https://webpages.charlotte.edu/ddai/papers/ccgrid22_vcsr_raqib.pdf){:target="_blank"}]<br>
 **Abdullah Al Raqibul Islam**, Dong Dai and Dazhao Cheng. <br>
 *CCGRID 2022*.
 
-- [A Performance Study of Optane Persistent Memory: From Indexing Data Structures’ Perspective](https://webpages.charlotte.edu/ddai/papers/MSST20_Pmem_CameraReady.pdf). [[Code](https://github.com/DIR-LAB/ycsb-storedsbench)] [[Slides](https://biqar.github.io/#)]<br>
+- [A Performance Study of Optane Persistent Memory: From Indexing Data Structures’ Perspective](https://webpages.charlotte.edu/ddai/papers/MSST20_Pmem_CameraReady.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/ycsb-storedsbench){:target="_blank"}] [[Slides](https://biqar.github.io/#){:target="_blank"}]<br>
 **Abdullah Al Raqibul Islam**, Anirudh Narayanan, Christopher York and Dong Dai. <br>
 *MSST 2020*.
 
-- [Understand the Overheads of Storage Data Structures on Persistent Memory ](https://webpages.charlotte.edu/ddai/papers/Understand_PMEM_Overheads.pdf). [[Code](https://github.com/DIR-LAB/ycsb-storedsbench)] [[Slides](https://webpages.charlotte.edu/ddai/papers/ppopp-2020.pptx)]<br>
+- [Understand the Overheads of Storage Data Structures on Persistent Memory](https://webpages.charlotte.edu/ddai/papers/Understand_PMEM_Overheads.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/ycsb-storedsbench){:target="_blank"}] [[Slides](https://webpages.charlotte.edu/ddai/papers/ppopp-2020.pptx){:target="_blank"}]<br>
 **Abdullah Al Raqibul Islam** and Dong Dai. <br>
 *PPoPP 2020. Brief Announcement.*
 
@@ -43,33 +43,33 @@ Karim Youssef, **Abdullah Al Raqibul Islam**, Keita Iwabuchi, Wu-chun Feng and R
 
 ## Professional Service
 
-- External reviewer of [IPDPS 2023](https://www.ipdps.org/ipdps2023/2023-.html)
-- Student volunteer of [ISSRE 2022](https://issre2022.github.io)
-- External reviewer of [ICPP 2022](https://icpp22.gitlabpages.inria.fr)
-- External reviewer of [CCGrid 2022](https://fcrlab.unime.it/ccgrid22/)
-- External reviewer of [IPDPS 2022](https://www.ipdps.org/ipdps2022/index.html)
-- Sub-reviewer of [IEEE BigData 2022](http://bigdataieee.org/BigData2022/)
-- [Artifact evaluation committee member](https://osdi22ae.usenix.hotcrp.com/users/pc) of [OSDI 2022](https://www.usenix.org/conference/osdi22)
-- [Artifact evaluation committee member](https://atc22ae.usenix.hotcrp.com/users/pc) of [ATC 2022](https://www.usenix.org/conference/atc22)
-- Sub-reviewer of [IEEE ISPA 2021](http://www.cloud-conf.net/ispa2021/)
-- Student volunteer of [SC 2021](https://sc21.supercomputing.org)
-- External reviewer of [ICPP 2020](https://jnamaral.github.io/icpp20/)
-- External reviewer of [IPDPS 2020](https://www.ipdps.org/ipdps2020/index.html)
+- External reviewer of [IPDPS 2023](https://www.ipdps.org/ipdps2023/2023-.html){:target="_blank"}
+- Student volunteer of [ISSRE 2022](https://issre2022.github.io){:target="_blank"}
+- External reviewer of [ICPP 2022](https://icpp22.gitlabpages.inria.fr){:target="_blank"}
+- External reviewer of [CCGrid 2022](https://fcrlab.unime.it/ccgrid22/){:target="_blank"}
+- External reviewer of [IPDPS 2022](https://www.ipdps.org/ipdps2022/index.html){:target="_blank"}
+- Sub-reviewer of [IEEE BigData 2022](http://bigdataieee.org/BigData2022/){:target="_blank"}
+- [Artifact evaluation committee member](https://osdi22ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [OSDI 2022](https://www.usenix.org/conference/osdi22){:target="_blank"}
+- [Artifact evaluation committee member](https://atc22ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [ATC 2022](https://www.usenix.org/conference/atc22){:target="_blank"}
+- Sub-reviewer of [IEEE ISPA 2021](http://www.cloud-conf.net/ispa2021/){:target="_blank"}
+- Student volunteer of [SC 2021](https://sc21.supercomputing.org){:target="_blank"}
+- External reviewer of [ICPP 2020](https://jnamaral.github.io/icpp20/){:target="_blank"}
+- External reviewer of [IPDPS 2020](https://www.ipdps.org/ipdps2020/index.html){:target="_blank"}
 
 ---
 
 ## Experience
 
-- [Research Assistant](https://daidong.github.io) @ Data Intelligence Research (DIR) Lab, UNC Charlotte, Aug. 2019 - Present
-- [CS Research Mentorship Program (CSRMP)](https://research.google/outreach/csrmp/recipients/?category=2022) - Mentee, Fall 2022
+- [Research Assistant](https://daidong.github.io){:target="_blank"} @ Data Intelligence Research (DIR) Lab, UNC Charlotte, Aug. 2019 - Present
+- [CS Research Mentorship Program (CSRMP)](https://research.google/outreach/csrmp/recipients/?category=2022){:target="_blank"} - Mentee, Fall 2022
 - Research Intern @ Lawrence Livermore National Laboratory, Summer 2022
 - Principal Software Engineer @ TigerIT Bangladesh Ltd., Oct 2014 - Aug 2019
 
 ___
 
 ## Honors and Awards
-- [SciAuth Student Fellowship](https://sciauth.org/fellows/), Fall 2022 
-- [Outstanding Student Paper Award](https://ieee-hpec.org/index.php/ieee-hpec-2022-prelim-agenda/), 27th Annual IEEE High Performance Extreme Computing (HPEC 2022)
+- [SciAuth Student Fellowship](https://sciauth.org/fellows/){:target="_blank"}, Fall 2022 
+- [Outstanding Student Paper Award](https://ieee-hpec.org/index.php/ieee-hpec-2022-prelim-agenda/){:target="_blank"}, 27th Annual IEEE High Performance Extreme Computing (HPEC 2022)
 
 ___
 
