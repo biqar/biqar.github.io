@@ -35,9 +35,21 @@ Karim Youssef, **Abdullah Al Raqibul Islam**, Keita Iwabuchi, Wu-chun Feng and R
 **Abdullah Al Raqibul Islam**, Anirudh Narayanan, Christopher York and Dong Dai. <br>
 *MSST 2020*.
 
+---
+
+## Posters / WiPs / Brief Announcements
+
+- [A Framework for Large Dynamic Graph Analysis on Persistent Memory](#){:target="_blank"}.<br>
+  **Abdullah Al Raqibul Islam** and Dong Dai.<br>
+  *FAST 2023. WiP.*
+
+- [On the Scalability of Testing the Crash Consistency of PM Systems](#){:target="_blank"}.<br>
+  Duo Zhang, Om Rameshwar Gatla, **Abdullah Al Raqibul Islam**, Dong Dai, and Mai Zheng. <br>
+  *FAST 2023. WiP and Poster.*
+
 - [Understand the Overheads of Storage Data Structures on Persistent Memory](https://webpages.charlotte.edu/ddai/papers/Understand_PMEM_Overheads.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/ycsb-storedsbench){:target="_blank"}] [[Slides](https://webpages.charlotte.edu/ddai/papers/ppopp-2020.pptx){:target="_blank"}]<br>
-**Abdullah Al Raqibul Islam** and Dong Dai. <br>
-*PPoPP 2020. Brief Announcement.*
+  **Abdullah Al Raqibul Islam** and Dong Dai. <br>
+  *PPoPP 2020. Brief Announcement.*
 
 ---
 
