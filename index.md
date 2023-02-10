@@ -43,11 +43,11 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Posters / WiPs / Brief Announcements
 
-- [A Framework for Large Dynamic Graph Analysis on Persistent Memory](#){:target="_blank"}.<br>
+- [A Framework for Large Dynamic Graph Analysis on Persistent Memory](#).<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
   *FAST 2023. WiP.*
 
-- [On the Scalability of Testing the Crash Consistency of PM Systems](#){:target="_blank"}.<br>
+- [On the Scalability of Testing the Crash Consistency of PM Systems](#).<br>
   Duo Zhang, Om Rameshwar Gatla, **Abdullah Al Raqibul Islam**, Dong Dai, and Mai Zheng. <br>
   *FAST 2023. WiP and Poster.*
 
@@ -59,6 +59,7 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Professional Service
 
+- [Artifact evaluation committee member](https://eurosys23ae-fall.hotcrp.com/users/pc){:target="_blank"} of [EuroSys 2023](https://2023.eurosys.org){:target="_blank"}
 - External reviewer of [IPDPS 2023](https://www.ipdps.org/ipdps2023/2023-.html){:target="_blank"}
 - Student volunteer of [ISSRE 2022](https://issre2022.github.io){:target="_blank"}
 - External reviewer of [ICPP 2022](https://icpp22.gitlabpages.inria.fr){:target="_blank"}
