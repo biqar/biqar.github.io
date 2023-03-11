@@ -43,6 +43,10 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Posters / WiPs / Brief Announcements
 
+- [Efficient Large Dynamic Graph Analysis on Emerging Storage Technology](#).<br>
+  **Abdullah Al Raqibul Islam** and Dong Dai.<br>
+  *IPDPS 2023. PhD Forum.*
+
 - [A Framework for Large Dynamic Graph Analysis on Persistent Memory](https://daidong.github.io/files/FAST23_wip_DGAP.pdf){:target="_blank"}. [[Slides](https://biqar.github.io/#){:target="_blank"}]<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
   *FAST 2023. WiP.*
