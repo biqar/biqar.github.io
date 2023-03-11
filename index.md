@@ -43,11 +43,11 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Posters / WiPs / Brief Announcements
 
-- [A Framework for Large Dynamic Graph Analysis on Persistent Memory](#).<br>
+- [A Framework for Large Dynamic Graph Analysis on Persistent Memory](https://daidong.github.io/files/FAST23_wip_DGAP.pdf){:target="_blank"}. [[Slides](https://biqar.github.io/#){:target="_blank"}]<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
   *FAST 2023. WiP.*
 
-- [On the Scalability of Testing the Crash Consistency of PM Systems](#).<br>
+- [On the Scalability of Testing the Crash Consistency of PM Systems](https://daidong.github.io/files/FAST23WIP_pm_crashconsistency.pdf){:target="_blank"}. [[Slides](https://biqar.github.io/#){:target="_blank"}]<br>
   Duo Zhang, Om Rameshwar Gatla, **Abdullah Al Raqibul Islam**, Dong Dai, and Mai Zheng. <br>
   *FAST 2023. WiP and Poster.*
 
