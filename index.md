@@ -1,25 +1,29 @@
 ---
 layout: default
 title: Abdullah Al Raqibul Islam
-description: I am a fourth year CS PhD student at UNC Charlotte Data Intelligence Research (DIR) Lab, where I am advised by Prof. Dong Dai. My research aims to build a high-performance graph processing engine to support trillion-edge graph processing in a single machine with heterogeneous memory/storage architecture.
+description: I am a CS PhD candidate at UNC Charlotte Data Intelligence Research (DIR) Lab, where I am advised by Prof. Dong Dai. My research aims to build a high-performance graph processing engine to support trillion-edge graph processing in a single machine with heterogeneous memory/storage architecture.
 ---
 
 # Abdullah Al Raqibul Islam
 <img src="/static/raqib.jpg" alt="Raqib" style="width: 180px; height: 212px; float: right; margin: 10px"/>
 <!-- ![Raqib](/static/raqib.jpg) -->
 
-Hi, I am a fourth-year CS Ph.D. student at UNC Charlotte, where I am fortunate to be advised by [Prof. Dong Dai](https://daidong.github.io) on storage systems.
+Hi, I am a CS Ph.D. candidate at UNC Charlotte, where I am fortunate to be advised by [Prof. Dong Dai](https://daidong.github.io) on storage systems.
 My research aims to build a high-performance graph processing engine to support trillion-edge graph processing in a single machine with heterogeneous memory/storage architecture. I exploit emerging storage technologies (e.g., Persistent Memory) in this regard. I am particularly interested in developing intelligent and adaptive data structures to efficiently store dynamic graphs without sacrificing the graph analysis’s efficiency.
 
 Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com) where I led a couple of ML and data management related engineering projects. I obtained my bachelor’s degree from [University of Dhaka](https://www.cse.du.ac.bd).
 
-[[CV](/cv.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=H8zsAR8AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}] [[GitHub](https://github.com/biqar){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/aa-raqibul-islam/){:target="_blank"}] [[Twitter](https://twitter.com/AbdullahRaqibul){:target="_blank"}]
+[[CV](/cv.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=H8zsAR8AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}] [[CSAuthors](https://www.csauthors.net/abdullah-al-raqibul-islam/){:target="_blank"}] [[GitHub](https://github.com/biqar){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/aa-raqibul-islam/){:target="_blank"}] [[Twitter](https://twitter.com/AbdullahRaqibul){:target="_blank"}]
 
 ---
 
 ## Publications
 
-- [FaultyRank: A Graph-based Parallel File System Checker](#). <br>
+- [DGAP: Efficient Dynamic Graph Analysis on Persistent Memory](#).<br>
+  **Abdullah Al Raqibul Islam** and Dong Dai.<br>
+  *SC 2023.*
+
+- [FaultyRank: A Graph-based Parallel File System Checker](https://daidong.github.io/files/faultyrank_ipdps23.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/FaultyRank){:target="_blank"}]<br>
   Saisha Kamat, **Abdullah Al Raqibul Islam**, Mai Zheng and Dong Dai. <br>
   *IPDPS 2023.*
 
@@ -63,6 +67,7 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Professional Service
 
+- Sub-reviewer of [ICPP 2023](https://icpp23.sci.utah.edu){:target="_blank"}
 - [Artifact evaluation committee member](https://osdi23ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [OSDI 2023](https://www.usenix.org/conference/osdi23){:target="_blank"}
 - [Artifact evaluation committee member](https://atc23ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [ATC 2023](https://www.usenix.org/conference/atc23){:target="_blank"}
 - [Artifact evaluation committee member](https://eurosys23ae-fall.hotcrp.com/users/pc){:target="_blank"} of [EuroSys 2023](https://2023.eurosys.org){:target="_blank"}
@@ -83,7 +88,10 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Experience
 
+- Research Intern @ Lawrence Berkeley National Laboratory, Summer 2023
 - [Research Assistant](https://daidong.github.io){:target="_blank"} @ Data Intelligence Research (DIR) Lab, UNC Charlotte, Aug. 2019 - Present
+- Mentor @ Undergraduate Research Initiative (URI), Computer Science Department, UNC-Charlotte. [Fall 2023](https://daidong.github.io/teaching/2023-fall-uri){:target="_blank"}, [Spring 2023](https://daidong.github.io/teaching/2023-spring-2){:target="_blank"}
+- Guest Lecture, [Machine Learning for Efficient Computing Systems](https://daidong.github.io/teaching/2023-spring){:target="_blank"}, Graduated Course, UNC Charlotte, Spring 2023
 - [CS Research Mentorship Program (CSRMP)](https://research.google/outreach/csrmp/recipients/?category=2022){:target="_blank"} - Mentee, Fall 2022
 - Research Intern @ Lawrence Livermore National Laboratory, Summer 2022
 - Principal Software Engineer @ TigerIT Bangladesh Ltd., Oct 2014 - Aug 2019
@@ -93,6 +101,7 @@ ___
 ## Honors and Awards
 - [SciAuth Student Fellowship](https://sciauth.org/fellows/){:target="_blank"}, Fall 2022 
 - [Outstanding Student Paper Award](https://ieee-hpec.org/index.php/ieee-hpec-2022-prelim-agenda/){:target="_blank"}, 27th Annual IEEE High Performance Extreme Computing (HPEC 2022)
+- UNC Charlotte Graduate School Merit Scholarship for Conference Expenses to attend in IPDPS'23
 
 ___
 
