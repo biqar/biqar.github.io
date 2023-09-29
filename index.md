@@ -19,7 +19,7 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Publications
 
-- [DGAP: Efficient Dynamic Graph Analysis on Persistent Memory](#).<br>
+- [DGAP: Efficient Dynamic Graph Analysis on Persistent Memory](https://daidong.github.io/files/dgap_sc23.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/DGAP){:target="_blank"}]<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
   *SC 2023.*
 
