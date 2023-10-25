@@ -101,9 +101,10 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 ___
 
 ## Honors and Awards
-- [SciAuth Student Fellowship](https://sciauth.org/fellows/){:target="_blank"}, Fall 2022 
-- [Outstanding Student Paper Award](https://ieee-hpec.org/index.php/ieee-hpec-2022-prelim-agenda/){:target="_blank"}, 27th Annual IEEE High Performance Extreme Computing (HPEC 2022)
-- UNC Charlotte Graduate School Merit Scholarship for Conference Expenses to attend in IPDPS'23
+- SC23 TCHPC Travel Award, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2023
+- Merit Scholarship $1500, UNC Charlotte, 2023
+- [SciAuth Student Fellowship](https://sciauth.org/fellows/){:target="_blank"} $1000, 2022 
+- [Outstanding Student Paper Award](https://ieee-hpec.org/index.php/ieee-hpec-2022-prelim-agenda/){:target="_blank"}, 27th Annual IEEE High Performance Extreme Computing (HPEC), 2022
 
 ___
 
