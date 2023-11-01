@@ -19,33 +19,39 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Publications
 
+### Conference Papers
+
 - [DGAP: Efficient Dynamic Graph Analysis on Persistent Memory](https://daidong.github.io/files/dgap_sc23.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/DGAP){:target="_blank"}]<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
-  *SC 2023.*
+  *SC 2023.* *(Acceptance Rate: 23.94%)*
 
 - [FaultyRank: A Graph-based Parallel File System Checker](https://daidong.github.io/files/faultyrank_ipdps23.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/FaultyRank){:target="_blank"}]<br>
   Saisha Kamat, **Abdullah Al Raqibul Islam**, Mai Zheng and Dong Dai. <br>
-  *IPDPS 2023.*
+  *IPDPS 2023.* *(Acceptance Rate: 25.7%)*
 
 - [Optimizing Performance and Storage of Memory-Mapped Persistent Data Structures](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926392){:target="_blank"}. <br>
   Karim Youssef, **Abdullah Al Raqibul Islam**, Keita Iwabuchi, Wu-chun Feng and Roger Pearce. <br>
   *HPEC 2022*. *<strong><i style="color:#e74d3c">Outstanding Student Paper Award</i></strong>*.
 
+- [VCSR: Mutable CSR Graph Format Using Vertex-Centric Packed Memory Array](https://webpages.charlotte.edu/ddai/papers/dong-ccgrid-22.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/VCSR){:target="_blank"}] [[Slides](https://webpages.charlotte.edu/ddai/papers/ccgrid22_vcsr_raqib.pdf){:target="_blank"}]<br>
+  **Abdullah Al Raqibul Islam**, Dong Dai and Dazhao Cheng. <br>
+  *CCGRID 2022*. *(Acceptance Rate: 24.83%)*
+
+- [A Performance Study of Optane Persistent Memory: From Indexing Data Structures’ Perspective](https://webpages.charlotte.edu/ddai/papers/MSST20_Pmem_CameraReady.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/ycsb-storedsbench){:target="_blank"}] [[Slides](https://biqar.github.io/#){:target="_blank"}]<br>
+  **Abdullah Al Raqibul Islam**, Anirudh Narayanan, Christopher York and Dong Dai. <br>
+  *MSST 2020*. *(Acceptance Rate: 29%)*
+
+<hr style="border:.5px solid gray; width: 50%;">
+
+### Journal Papers
+
 - [A Performance Study of Optane Persistent Memory: From Storage Data Structures' Perspective](https://rdcu.be/cWgD4){:target="_blank"}. [[Code](https://github.com/DIR-LAB/ycsb-storedsbench){:target="_blank"}] <br>
   **Abdullah Al Raqibul Islam**, Christopher York and Dong Dai. <br>
   *THPC 2022. Journal Paper.*
 
-- [VCSR: Mutable CSR Graph Format Using Vertex-Centric Packed Memory Array](https://webpages.charlotte.edu/ddai/papers/dong-ccgrid-22.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/VCSR){:target="_blank"}] [[Slides](https://webpages.charlotte.edu/ddai/papers/ccgrid22_vcsr_raqib.pdf){:target="_blank"}]<br>
-  **Abdullah Al Raqibul Islam**, Dong Dai and Dazhao Cheng. <br>
-  *CCGRID 2022*.
+<hr style="border:.5px solid gray; width: 50%;">
 
-- [A Performance Study of Optane Persistent Memory: From Indexing Data Structures’ Perspective](https://webpages.charlotte.edu/ddai/papers/MSST20_Pmem_CameraReady.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/ycsb-storedsbench){:target="_blank"}] [[Slides](https://biqar.github.io/#){:target="_blank"}]<br>
-  **Abdullah Al Raqibul Islam**, Anirudh Narayanan, Christopher York and Dong Dai. <br>
-  *MSST 2020*.
-
----
-
-## Posters / WiPs / Brief Announcements
+### Posters / WiPs / Brief Announcements
 
 - [Efficient Large Dynamic Graph Analysis on Emerging Storage Technology](#).<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
