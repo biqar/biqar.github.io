@@ -5,7 +5,7 @@ description: I am a CS PhD candidate at UNC Charlotte Data Intelligence Research
 ---
 
 # Abdullah Al Raqibul Islam
-<img src="/static/raqib.jpg" alt="Raqib" style="width: 180px; height: 240px; float: right; margin: 10px"/>
+<img src="/static/raqib.jpg" alt="Raqib" style="width: 180px; height: 194px; float: right; margin: 10px"/>
 <!-- ![Raqib](/static/raqib.jpg) -->
 
 Hi, I am a CS Ph.D. candidate at UNC Charlotte, where I am fortunate to be advised by [Prof. Dong Dai](https://daidong.github.io) on storage systems.
