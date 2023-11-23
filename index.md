@@ -73,6 +73,7 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Professional Service
 
+- [Artifact evaluation committee member](https://conf.researchr.org/committee/PPoPP-2024/PPoPP-2024-artifact-evaluation-artifact-evaluation-committee){:target="_blank"} of [PPoPP 2024](https://conf.researchr.org/home/PPoPP-2024){:target="_blank"}
 - Student volunteer of [SC 2023](https://sc23.supercomputing.org){:target="_blank"}
 - [Artifact evaluation committee member](https://sosp23ae.hotcrp.com/users/pc){:target="_blank"} of [SOSP 2023](https://sosp2023.mpi-sws.org){:target="_blank"}
 - Sub-reviewer of [ICPP 2023](https://icpp23.sci.utah.edu){:target="_blank"}
