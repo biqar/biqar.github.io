@@ -73,25 +73,24 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Professional Service
 
+- [Artifact evaluation committee member](https://osdi24ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [OSDI 2024](https://www.usenix.org/conference/osdi24){:target="_blank"}
+- [Artifact evaluation committee member](https://atc24ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [ATC 2024](https://www.usenix.org/conference/atc24){:target="_blank"}
+- [Artifact evaluation committee member](https://sc24.supercomputing.org/planning-committee/#Technical%20Program){:target="_blank"} of [SC 2024](https://sc24.supercomputing.org){:target="_blank"}
+- [Artifact evaluation committee member](https://icpp2024.org/index.php?option=com_content&view=article&id=4&Itemid=108){:target="_blank"} of [ICPP 2024](https://icpp2024.org){:target="_blank"}
+- [Program committee member](https://hpc.pnl.gov/grapl/organizatio.html){:target="_blank"} of [GrAPL 2024](https://hpc.pnl.gov/grapl/index.html){:target="_blank"} ([IPDPS 2024 Workshop](https://www.ipdps.org/ipdps2024/2024-workshops.html){:target="_blank"})
+- Reviewer of [SPAA 2024](https://spaa.acm.org/spaa-2024){:target="_blank"}
 - [Artifact evaluation committee member](https://conf.researchr.org/committee/PPoPP-2024/PPoPP-2024-artifact-evaluation-artifact-evaluation-committee){:target="_blank"} of [PPoPP 2024](https://conf.researchr.org/home/PPoPP-2024){:target="_blank"}
 - Student volunteer of [SC 2023](https://sc23.supercomputing.org){:target="_blank"}
 - [Artifact evaluation committee member](https://sosp23ae.hotcrp.com/users/pc){:target="_blank"} of [SOSP 2023](https://sosp2023.mpi-sws.org){:target="_blank"}
-- Sub-reviewer of [ICPP 2023](https://icpp23.sci.utah.edu){:target="_blank"}
 - [Artifact evaluation committee member](https://osdi23ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [OSDI 2023](https://www.usenix.org/conference/osdi23){:target="_blank"}
 - [Artifact evaluation committee member](https://atc23ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [ATC 2023](https://www.usenix.org/conference/atc23){:target="_blank"}
 - [Artifact evaluation committee member](https://eurosys23ae-fall.hotcrp.com/users/pc){:target="_blank"} of [EuroSys 2023](https://2023.eurosys.org){:target="_blank"}
-- External reviewer of [IPDPS 2023](https://www.ipdps.org/ipdps2023/2023-.html){:target="_blank"}
 - Student volunteer of [ISSRE 2022](https://issre2022.github.io){:target="_blank"}
-- External reviewer of [ICPP 2022](https://icpp22.gitlabpages.inria.fr){:target="_blank"}
 - [Artifact evaluation committee member](https://osdi22ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [OSDI 2022](https://www.usenix.org/conference/osdi22){:target="_blank"}
 - [Artifact evaluation committee member](https://atc22ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [ATC 2022](https://www.usenix.org/conference/atc22){:target="_blank"}
-- External reviewer of [CCGrid 2022](https://fcrlab.unime.it/ccgrid22/){:target="_blank"}
-- External reviewer of [IPDPS 2022](https://www.ipdps.org/ipdps2022/index.html){:target="_blank"}
-- Sub-reviewer of [IEEE BigData 2022](http://bigdataieee.org/BigData2022/){:target="_blank"}
-- Sub-reviewer of [IEEE ISPA 2021](http://www.cloud-conf.net/ispa2021/){:target="_blank"}
 - Student volunteer of [SC 2021](https://sc21.supercomputing.org){:target="_blank"}
-- External reviewer of [ICPP 2020](https://jnamaral.github.io/icpp20/){:target="_blank"}
-- External reviewer of [IPDPS 2020](https://www.ipdps.org/ipdps2020/index.html){:target="_blank"}
+- Sub-reviewer of [ICPP 2023](https://icpp23.sci.utah.edu){:target="_blank"}, [IEEE BigData 2022](http://bigdataieee.org/BigData2022/){:target="_blank"}, [IEEE ISPA 2021](http://www.cloud-conf.net/ispa2021/){:target="_blank"}
+- External reviewer of [IPDPS 2023](https://www.ipdps.org/ipdps2023/2023-.html){:target="_blank"}, [ICPP 2022](https://icpp22.gitlabpages.inria.fr){:target="_blank"}, [CCGrid 2022](https://fcrlab.unime.it/ccgrid22/){:target="_blank"}, [IPDPS 2022](https://www.ipdps.org/ipdps2022/index.html){:target="_blank"}, [ICPP 2020](https://jnamaral.github.io/icpp20/){:target="_blank"}, [IPDPS 2020](https://www.ipdps.org/ipdps2020/index.html){:target="_blank"}
 
 ---
 
