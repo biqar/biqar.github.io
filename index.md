@@ -21,11 +21,11 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ### Conference Papers
 
-- [DGAP: Efficient Dynamic Graph Analysis on Persistent Memory](https://daidong.github.io/files/dgap_sc23.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/DGAP){:target="_blank"}]<br>
+- [DGAP: Efficient Dynamic Graph Analysis on Persistent Memory](https://webpages.charlotte.edu/ddai/data/dgap_sc23.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/DGAP){:target="_blank"}]<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
   *SC 2023.* *(Acceptance Rate: 23.94%)*
 
-- [FaultyRank: A Graph-based Parallel File System Checker](https://daidong.github.io/files/faultyrank_ipdps23.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/FaultyRank){:target="_blank"}]<br>
+- [FaultyRank: A Graph-based Parallel File System Checker](https://webpages.charlotte.edu/ddai/data/faultyrank_ipdps23.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/FaultyRank){:target="_blank"}]<br>
   Saisha Kamat, **Abdullah Al Raqibul Islam**, Mai Zheng and Dong Dai. <br>
   *IPDPS 2023.* *(Acceptance Rate: 25.7%)*
 
@@ -33,11 +33,11 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
   Karim Youssef, **Abdullah Al Raqibul Islam**, Keita Iwabuchi, Wu-chun Feng and Roger Pearce. <br>
   *HPEC 2022*. *<strong><i style="color:#e74d3c">Outstanding Student Paper Award</i></strong>*.
 
-- [VCSR: Mutable CSR Graph Format Using Vertex-Centric Packed Memory Array](https://webpages.charlotte.edu/ddai/papers/dong-ccgrid-22.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/VCSR){:target="_blank"}] [[Slides](https://webpages.charlotte.edu/ddai/papers/ccgrid22_vcsr_raqib.pdf){:target="_blank"}]<br>
+- [VCSR: Mutable CSR Graph Format Using Vertex-Centric Packed Memory Array](https://webpages.charlotte.edu/ddai/data/dong-ccgrid-22.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/VCSR){:target="_blank"}] [[Slides](https://webpages.charlotte.edu/ddai/papers/ccgrid22_vcsr_raqib.pdf){:target="_blank"}]<br>
   **Abdullah Al Raqibul Islam**, Dong Dai and Dazhao Cheng. <br>
   *CCGRID 2022*. *(Acceptance Rate: 24.83%)*
 
-- [A Performance Study of Optane Persistent Memory: From Indexing Data Structures’ Perspective](https://webpages.charlotte.edu/ddai/papers/MSST20_Pmem_CameraReady.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/ycsb-storedsbench){:target="_blank"}] [[Slides](https://biqar.github.io/#){:target="_blank"}]<br>
+- [A Performance Study of Optane Persistent Memory: From Indexing Data Structures’ Perspective](https://webpages.charlotte.edu/ddai/data/MSST20_Pmem_CameraReady.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/ycsb-storedsbench){:target="_blank"}] [[Slides](https://biqar.github.io/#){:target="_blank"}]<br>
   **Abdullah Al Raqibul Islam**, Anirudh Narayanan, Christopher York and Dong Dai. <br>
   *MSST 2020*. *(Acceptance Rate: 29%)*
 
@@ -96,12 +96,13 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Experience
 
-- Research Intern @ Lawrence Berkeley National Laboratory, Summer 2023
-- [Research Assistant](https://daidong.github.io){:target="_blank"} @ Data Intelligence Research (DIR) Lab, UNC Charlotte, Aug. 2019 - Present
-- Mentor @ Undergraduate Research Initiative (URI), Computer Science Department, UNC-Charlotte. [Fall 2023](https://daidong.github.io/teaching/2023-fall-uri){:target="_blank"}, [Spring 2023](https://daidong.github.io/teaching/2023-spring-2){:target="_blank"}
+- Research Assistant @ UNC Charlotte / DIR Lab, Aug. 2019 - Present (Mentor: [Dong Dai](https://daidong.github.io){:target="_blank"})
+- Research Intern @ Lawrence Berkeley National Laboratory, Summer 2024 (Mentor: [Aydın Buluç](https://people.eecs.berkeley.edu/~aydin){:target="_blank"})
+- Research Intern @ Lawrence Berkeley National Laboratory, Summer 2023 (Mentor: [Aydın Buluç](https://people.eecs.berkeley.edu/~aydin){:target="_blank"}, [Helen Xu](https://itshelenxu.github.io){:target="_blank"})
+- Research Intern @ Lawrence Livermore National Laboratory, Summer 2022 (Mentor: [Roger Pearce](https://people.llnl.gov/pearce7){:target="_blank"}, [Keita Iwabuchi](https://people.llnl.gov/iwabuchi1){:target="_blank"})
+- Mentor @ Undergraduate Research Initiative (URI), Computer Science Department, UNC-Charlotte. [Spring 2023](https://daidong.github.io/teaching/2023-spring-2){:target="_blank"}
 - Guest Lecture, [Machine Learning for Efficient Computing Systems](https://daidong.github.io/teaching/2023-spring){:target="_blank"}, Graduated Course, UNC Charlotte, Spring 2023
-- [CS Research Mentorship Program (CSRMP)](https://research.google/outreach/csrmp/recipients/?category=2022){:target="_blank"} - Mentee, Fall 2022
-- Research Intern @ Lawrence Livermore National Laboratory, Summer 2022
+- [CS Research Mentorship Program (CSRMP)](https://research.google/outreach/csrmp/recipients/?category=2022){:target="_blank"} - Mentee, Fall 2022 (Mentor: [Marisa Ferrara Boston](https://www.linkedin.com/in/marisa-ferrara-boston-9a414129){:target="_blank"})
 - Principal Software Engineer @ TigerIT Bangladesh Ltd., Oct 2014 - Aug 2019
 
 ___
