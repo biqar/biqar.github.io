@@ -73,6 +73,7 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Professional Service
 
+- [Program committee member](https://sites.google.com/view/sandyworkshop){:target="_blank"} of [SANDY 2024](https://sites.google.com/view/sandyworkshop){:target="_blank"} ([ICPP 2024 Workshop](https://icpp2024.org){:target="_blank"})
 - [Artifact evaluation committee member](https://osdi24ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [OSDI 2024](https://www.usenix.org/conference/osdi24){:target="_blank"}
 - [Artifact evaluation committee member](https://atc24ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [ATC 2024](https://www.usenix.org/conference/atc24){:target="_blank"}
 - [Artifact evaluation committee member](https://sc24.supercomputing.org/planning-committee/#Technical%20Program){:target="_blank"} of [SC 2024](https://sc24.supercomputing.org){:target="_blank"}
