@@ -118,6 +118,7 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 ___
 
 ## Honors and Awards
+- ACM SIGHPC Travel Grant, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024
 - SC24 Travel Grant, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024
 - SC23 TCHPC Travel Award, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2023
 - Merit Scholarship $1500, UNC Charlotte, 2023
