@@ -55,6 +55,14 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 - [Efficient Large Dynamic Graph Analysis on Emerging Storage Technology](#).<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
+  *SC 2023. Doctoral Showcases.*
+
+- [Improving SpGEMM Performance Through Reordering and Cluster-wise Computation](#).<br>
+  **Abdullah Al Raqibul Islam**, Helen Xu, Dong Dai, and Aydin Buluç.<br>
+  *SC 2023. ACM SRC Posters.*
+
+- [Efficient Large Dynamic Graph Analysis on Emerging Storage Technology](#).<br>
+  **Abdullah Al Raqibul Islam** and Dong Dai.<br>
   *IPDPS 2023. PhD Forum.*
 
 - [A Framework for Large Dynamic Graph Analysis on Persistent Memory](https://daidong.github.io/files/FAST23_wip_DGAP.pdf){:target="_blank"}. [[Slides](https://biqar.github.io/#){:target="_blank"}]<br>
@@ -73,6 +81,7 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ## Professional Service
 
+- Student volunteer of [SC 2024](https://sc24.supercomputing.org){:target="_blank"}
 - [Program committee member](https://sites.google.com/view/sandyworkshop){:target="_blank"} of [SANDY 2024](https://sites.google.com/view/sandyworkshop){:target="_blank"} ([ICPP 2024 Workshop](https://icpp2024.org){:target="_blank"})
 - [Artifact evaluation committee member](https://osdi24ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [OSDI 2024](https://www.usenix.org/conference/osdi24){:target="_blank"}
 - [Artifact evaluation committee member](https://atc24ae.usenix.hotcrp.com/users/pc){:target="_blank"} of [ATC 2024](https://www.usenix.org/conference/atc24){:target="_blank"}
@@ -109,6 +118,7 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 ___
 
 ## Honors and Awards
+- SC24 Travel Grant, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024
 - SC23 TCHPC Travel Award, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2023
 - Merit Scholarship $1500, UNC Charlotte, 2023
 - [SciAuth Student Fellowship](https://sciauth.org/fellows/){:target="_blank"} $1000, 2022 
