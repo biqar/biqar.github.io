@@ -55,11 +55,11 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 - [Efficient Large Dynamic Graph Analysis on Emerging Storage Technology](#).<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
-  *SC 2023. Doctoral Showcases.*
+  *SC 2024. Doctoral Showcases.*
 
 - [Improving SpGEMM Performance Through Reordering and Cluster-wise Computation](#).<br>
   **Abdullah Al Raqibul Islam**, Helen Xu, Dong Dai, and Aydin Buluç.<br>
-  *SC 2023. ACM SRC Posters.*
+  *SC 2024. ACM SRC Posters.*
 
 - [Efficient Large Dynamic Graph Analysis on Emerging Storage Technology](#).<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
@@ -120,6 +120,7 @@ ___
 ## Honors and Awards
 - ACM SIGHPC Travel Grant, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024
 - SC24 Travel Grant, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024
+- Conference Travel Scholarship, UNC Charlotte, 2024
 - SC23 TCHPC Travel Award, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2023
 - Merit Scholarship $1500, UNC Charlotte, 2023
 - [SciAuth Student Fellowship](https://sciauth.org/fellows/){:target="_blank"} $1000, 2022 
