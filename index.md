@@ -71,7 +71,7 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 - [Improving SpGEMM Performance Through Reordering and Cluster-wise Computation](https://sc24.conference-program.com/presentation/?id=post284&sess=sess542){:target="_blank"}.<br>
   **Abdullah Al Raqibul Islam**, Helen Xu, Dong Dai, and Aydin Buluç.<br>
-  *SC 2024. ACM SRC Posters.* *<strong><i style="color:#e74d3c">3rd Place: ACM Student Research Competition--Graduates</i></strong>*.
+  *SC 2024. ACM SRC Posters.* *<strong><i style="color:#e74d3c">3rd Place</i></strong>*.
 
 - [Efficient Large Dynamic Graph Analysis on Emerging Storage Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10196585){:target="_blank"}.<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
