@@ -130,7 +130,7 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 ___
 
 ## Honors and Awards
-- 3rd Place in ACM Student Research Competition--Graduates at SC, 2024
+- [3rd Place in ACM Student Research Competition--Graduates](https://sc24.supercomputing.org/program/awards/){:target="_blank"} at SC, 2024
 - ACM SIGHPC Travel Grant, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024
 - SC24 Travel Grant, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024
 - Conference Travel Scholarship, UNC Charlotte, 2024
