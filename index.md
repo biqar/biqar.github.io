@@ -35,6 +35,10 @@ Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [Tiger
 
 ### Conference Papers
 
+- [Improving SpGEMM Performance Through Matrix-Reordering and Cluster-wise Computation](#){:target="_blank"}. [[Code](https://github.com/PASSIONLab/clusterwise-spgemm){:target="_blank"}]<br>
+  **Abdullah Al Raqibul Islam**, Helen Xu, Dong Dai, and Aydin Buluç.<br>
+  *SC 2025.* *(Acceptance Rate: 21.2%)*
+
 - [DGAP: Efficient Dynamic Graph Analysis on Persistent Memory](https://webpages.charlotte.edu/ddai/data/dgap_sc23.pdf){:target="_blank"}. [[Code](https://github.com/DIR-LAB/DGAP){:target="_blank"}]<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
   *SC 2023.* *(Acceptance Rate: 23.94%)*
