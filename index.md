@@ -11,6 +11,8 @@ description: I am a CS PhD candidate at UNC Charlotte Data Intelligence Research
 Hi, I am a Ph.D. candidate in Computer Science at UNC Charlotte, where I am fortunate to be advised by [Prof. Dong Dai](https://sites.google.com/udel.edu/dirlab/people/dong-dai).
 My research lies at the intersection of data storage systems and high-performance computing, with a focus on designing storage-aware applications that leverage the evolving capabilities of modern hardware.
 
+*<strong><i style="color:#e74d3c">I am on the academic and industry job markets in 2025-2026</i></strong>*
+
 My dissertation work explores the development of a high-performance dynamic graph processing framework optimized for emerging storage technologies, such as non-volatile memory.
 I am particularly interested in intelligent and adaptive data structures that enable efficient storage and analysis of evolving graph data.
 
@@ -19,8 +21,6 @@ Since Summer 2023, I have also been working with [Dr. Aydin Buluc](https://passi
 [//]: # (My research aims to build a high-performance graph processing engine to support trillion-edge graph processing in a single machine with heterogeneous memory/storage architecture. I exploit emerging storage technologies &#40;e.g., Persistent Memory&#41; in this regard. I am particularly interested in developing intelligent and adaptive data structures to efficiently store dynamic graphs without sacrificing the graph analysis’s efficiency.)
 
 Prior to UNC Charlotte, I was appointed as Principal Software Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com) where I led a couple of ML and data management related engineering projects. I obtained my bachelor’s degree from [University of Dhaka](https://www.cse.du.ac.bd).
-
-*<strong><i style="color:#e74d3c">I am on the academic and industry job markets in 2025-2026</i></strong>*
 
 [[CV](/cv.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=H8zsAR8AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}] [[CSAuthors](https://www.csauthors.net/abdullah-al-raqibul-islam/){:target="_blank"}] [[GitHub](https://github.com/biqar){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/aa-raqibul-islam/){:target="_blank"}] [[Twitter](https://twitter.com/AbdullahRaqibul){:target="_blank"}]
 
