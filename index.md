@@ -138,4 +138,4 @@ ___
 
 ## Contact
 
-aislam6@uncc.edu
+aislam6@charlotte.edu
