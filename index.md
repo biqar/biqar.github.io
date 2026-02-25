@@ -8,28 +8,20 @@ description: I am a CS PhD candidate at UNC Charlotte Data Intelligence Research
 <img src="/static/raqib.jpg" alt="Raqib" style="width: 180px; height: 194px; float: right; margin: 10px"/>
 <!-- ![Raqib](/static/raqib.jpg) -->
 
-I am a Ph.D. candidate in Computer Science at UNC Charlotte, where I am advised by [Prof. Dong Dai](https://sites.google.com/udel.edu/dirlab/people/dong-dai).
-My research lies at the intersection of high-performance computing and algorithm design, with a focus on data storage systems and algorithms for sparse data.
+I am a Researcher in the Department of Computer Science and Engineering at The Ohio State University and a member of the [IDT Lab](https://idtlab.github.io) (PI: [Prof. Suren Byna](https://sbyna.github.io)). My work focuses on designing scalable, high-performance systems for data-intensive applications, with an emphasis on reducing data movement bottlenecks in modern architectures. I contribute to the [SAGEST](https://sagest.virginia.edu) project, developing optimization-driven integration strategies for large-scale scientific data processing.
 
-[//]: # (My research lies at the intersection of data storage systems and high-performance computing, with a focus on designing storage-aware applications that leverage the evolving capabilities of modern hardware.)
+I received my Ph.D. in Computer Science from UNC Charlotte in December 2025. My [dissertation](https://www.proquest.com/openview/3e1307417a6b71f8fcd2bb7c5f3221fa) developed high-performance data structures for efficient sparse storage and computation. I was advised by [Prof. Dong Dai](https://sites.google.com/udel.edu/dirlab/people/dong-dai) during this time. I have also collaborated with [Dr. Aydin Buluc](https://passion.lbl.gov) at [Lawrence Berkeley National Laboratory](https://people.eecs.berkeley.edu/~aydin/) on parallel sparse computations.
 
-*<strong><i style="color:#e74d3c">I am on the academic and industry job markets in 2025-2026</i></strong>*
-
-My dissertation work explores the development of a high-performance dynamic graph processing framework optimized for emerging storage technologies, such as non-volatile memory.
-I am particularly interested in intelligent and adaptive data structures that enable efficient storage and analysis of evolving graph data.
-
-Since Summer 2023, I have also been working with [Dr. Aydin Buluc](https://passion.lbl.gov) at [Lawrence Berkeley National Laboratory](https://people.eecs.berkeley.edu/~aydin/) on projects related to parallel sparse computations.
-
-[//]: # (My research aims to build a high-performance graph processing engine to support trillion-edge graph processing in a single machine with heterogeneous memory/storage architecture. I exploit emerging storage technologies &#40;e.g., Persistent Memory&#41; in this regard. I am particularly interested in developing intelligent and adaptive data structures to efficiently store dynamic graphs without sacrificing the graph analysis’s efficiency.)
-
-Before starting my Ph.D., I worked as a Principal Software Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com) where I led projects involving machine learning and data management systems. I completed my bachelor’s degree in Computer Science from [University of Dhaka, Bangladesh](https://www.cse.du.ac.bd).
+Prior to academia, I worked as a Principal Software Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com), leading the development of machine learning-driven and large-scale data management systems. I earned my bachelor’s degree in Computer Science from [University of Dhaka, Bangladesh](https://www.cse.du.ac.bd).
 
 [[CV](/cv.pdf){:target="_blank"}] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=H8zsAR8AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}] [[CSAuthors](https://www.csauthors.net/abdullah-al-raqibul-islam/){:target="_blank"}] [[GitHub](https://github.com/biqar){:target="_blank"}] [[LinkedIn](https://www.linkedin.com/in/aa-raqibul-islam/){:target="_blank"}] [[Twitter](https://twitter.com/AbdullahRaqibul){:target="_blank"}]
 
 ### Research Interest
+- AI-Driven Optimization for High-Performance Systems
 - Parallel and High-Performance Computing
-- Graph Storage and Processing
-- Large-Scale Intelligent Data Management on Modern Hardware
+- Scalable Sparse Data Management
+- Intelligent Data Management for Modern Hardware Architectures
+
 
 ---
 
