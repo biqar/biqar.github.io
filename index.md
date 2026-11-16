@@ -10,7 +10,7 @@ description: I am a CS PhD candidate at UNC Charlotte Data Intelligence Research
 
 I am a Researcher in the Department of Computer Science and Engineering at The Ohio State University and a member of the [IDT Lab](https://idtlab.github.io) (PI: [Prof. Suren Byna](https://sbyna.github.io)). My work focuses on designing scalable, high-performance systems for data-intensive applications, with an emphasis on reducing data movement bottlenecks in modern architectures. I contribute to the [SAGEST](https://sagest.virginia.edu) project, developing optimization-driven integration strategies for large-scale scientific data processing.
 
-I received my Ph.D. in Computer Science from UNC Charlotte in December 2025. My [dissertation](https://www.proquest.com/openview/3e1307417a6b71f8fcd2bb7c5f3221fa) developed high-performance data structures for efficient sparse storage and computation. I was advised by [Prof. Dong Dai](https://sites.google.com/udel.edu/dirlab/people/dong-dai) during this time. I have also collaborated with [Dr. Aydin Buluc](https://passion.lbl.gov) at [Lawrence Berkeley National Laboratory](https://people.eecs.berkeley.edu/~aydin/) on parallel sparse computations.
+I received my Ph.D. in Computer Science from UNC Charlotte in December 2025. My [dissertation](https://www.proquest.com/openview/3e1307417a6b71f8fcd2bb7c5f3221fa) developed high-performance data structures for efficient sparse storage and computation. I was advised by [Prof. Dong Dai](https://sites.google.com/udel.edu/dirlab/people/dong-dai) during this time. I have also collaborated with [Dr. Aydin Buluc](https://passion.lbl.gov) and [Helen Xu](https://itshelenxu.github.io) at [Lawrence Berkeley National Laboratory](https://people.eecs.berkeley.edu/~aydin/) on parallel sparse computations.
 
 Prior to academia, I worked as a Principal Software Engineer at [TigerIT Bangladesh Ltd.](https://www.tigerit.com), leading the development of machine learning-driven and large-scale data management systems. I earned my bachelor’s degree in Computer Science from [University of Dhaka, Bangladesh](https://www.cse.du.ac.bd).
 
@@ -130,4 +130,4 @@ ___
 
 ## Contact
 
-aislam6@charlotte.edu
+islam.301 [at] osu [dot] edu
