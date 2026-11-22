@@ -65,6 +65,10 @@ Prior to academia, I worked as a Principal Software Engineer at [TigerIT Banglad
 
 ### Posters / WiPs / Brief Announcements
 
+- [Ready at the Source: Data Readiness for AI, Measured and Fixed Where the Data Lives](https://www.montereydataconference.org/program-2026){:target="_blank"}.<br>
+  Jean Luca Bez, Kaveen Hiniduma, **Abdullah Al Raqibul Islam**, Dhanushkumar Jayakumar Vasuki, Houjun Tang, Beojan Stanislaus, Paolo Calafiura, Ravi Madduri, and Suren Byna.<br>
+  *Monterey Data Conference (MDC '26) Poster, 2026.*
+
 - [Efficient Large Dynamic Graph Analysis on Emerging Storage Technology](https://sc24.conference-program.com/presentation/?id=drs123&sess=sess530){:target="_blank"}.<br>
   **Abdullah Al Raqibul Islam** and Dong Dai.<br>
   *SC 2024. Doctoral Showcases.*
